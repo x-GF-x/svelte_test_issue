@@ -23,6 +23,7 @@
     "svelte-jester": "^1.0.3"
   },
   "dependencies": {
-    "sirv-cli": "^0.4.4"
+    "sirv-cli": "^0.4.4",
+    "sveltestrap": "^5.8.3"
   }
 }
